@@ -1,6 +1,5 @@
 %% Machine Learning Online Class - Exercise 1: Linear Regression
 
-%  C:/Users/luozh/Documents/projects/octave/machine-learning-ex1/ex1
 %  Instructions
 %  ------------
 %
